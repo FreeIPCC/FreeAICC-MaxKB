@@ -127,3 +127,7 @@ Licensed under The GNU General Public License version 3 (GPLv3)  (the "License")
 <https://www.gnu.org/licenses/gpl-3.0.html>
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+## 本项目的目标
+
+本项目目标是适配 MaxKB，将在线客服与传统的呼叫中心进行对接。并将涉及到的有关代码进行开源，方便MaxKB 的用户、开发者等生态伙伴的一起使用。 代码持续上传中。协议承袭 MaxKB 原有协议。请知悉。
